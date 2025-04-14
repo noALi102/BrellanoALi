@@ -328,7 +328,7 @@ body {
     overflow-x: hidden;
 }
 .content5 {
-    background-image: url("assets/bg-3.png");
+    background-image: url(assets/bg-3.png);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 100px 150px;
